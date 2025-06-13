@@ -1,2 +1,2 @@
-# Bantai6k
-6k dattaset
+# BANTAI
+repo for DOST hackathon
